@@ -1,0 +1,15 @@
+.square-rater {
+    display: inline-flex;
+    padding: 0 20px;
+}
+.square-rater .rate-node {
+    width: 20px;
+    height: 5px;
+    background-color: #78849E;
+    margin-left: 3px;
+}
+.square-rater .rate-node.rated {
+    width: 20px;
+    height: 5px;
+    background-color: #1A70C6;
+}
