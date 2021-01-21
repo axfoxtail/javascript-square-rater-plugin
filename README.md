@@ -14,7 +14,6 @@ Javscript - `<script src="path/square-rater/square-rater.js" type="text/javascri
 v1.0 (simple version - only show the rate) - 2020.3.24
 
 ### Contact
-* live:sunrise0717 (skype)
-* sunrise0717@outlook.com (outlook)
-* sunrise07172710@gmail.com (gmail)
-* herodice (github)
+* live:.cid.4138a976227638ac (skype)
+* royal2710@outlook.com (email)
+* https://github.com/royal2710 (github)
